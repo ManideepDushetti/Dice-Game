@@ -65,7 +65,3 @@ Result: You win!
 ## Contributing
 Contributions to enhance the game are welcome! Feel free to fork this repository and submit a pull request with improvements or additional features.
 
----
-
-## License
-This project is licensed under the [MIT License](LICENSE).
